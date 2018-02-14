@@ -1,4 +1,4 @@
-import code
+import Code
 from scipy.misc import ascent
 import numpy as N
 
