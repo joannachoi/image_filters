@@ -1,9 +1,4 @@
-# Name: Joanna Choi
-# VUNET ID: choije
-# Class: SC3250
-# Assignment: #3
-
-import Assignment3
+import code
 from scipy.misc import ascent
 import numpy as N
 
