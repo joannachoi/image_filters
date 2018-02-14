@@ -1,9 +1,3 @@
-# Name: Joanna Choi
-# VUNET ID: choije
-# Class: SC3250
-# Assignment: #3
-
-
 import matplotlib.pyplot as plt
 import scipy.signal as S
 import numpy as N
